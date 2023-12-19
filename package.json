@@ -11,11 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.6.5",
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.17.2",
     "cron": "^1.2.1",
     "express-session": "^1.15.5",
-    "mongoose": "^4.11.6",
+    "mongoose": "^5.3.9",
     "nodemailer": "^4.0.1"
   },
   "devDependencies": {
