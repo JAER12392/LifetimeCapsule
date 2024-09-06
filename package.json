@@ -13,9 +13,9 @@
     "angular": "^1.6.5",
     "bcrypt": "^1.0.2",
     "body-parser": "^1.17.2",
-    "cron": "^1.2.1",
+    "cron": "^2.0.0",
     "express-session": "^1.15.5",
-    "mongoose": "^4.11.6",
+    "mongoose": "^5.7.3",
     "nodemailer": "^4.0.1"
   },
   "devDependencies": {
